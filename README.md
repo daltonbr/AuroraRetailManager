@@ -18,13 +18,13 @@ Build a MVP (Minimum Viable Product) the we can expand to cover all of the featu
 * WPF
 * ASP.NET MVC
 * .NET Core
-* SSDT
+* SSDT - SQL Server Data Tools
 * Git
 * Azure DevOps
 * Design Patterns
 * Async
 * Reporting
-* WebAPI
+* [WebAPI](./Documentation/WebAPI.md)
 * Logging
 * Data Validation
 * HTML
